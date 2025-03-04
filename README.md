@@ -1,6 +1,4 @@
-Thanks for the details! Here's the updated README file incorporating your `.env` configuration and features like logging in, registering for events, and creating events.  
 
----
 
 # Events App  
 
@@ -107,7 +105,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ## Credits  
 
 This project was created by **Anastasiia Peliukhovska** and the team.  
-
----
-
-Let me know if you’d like any further modifications! 🚀
